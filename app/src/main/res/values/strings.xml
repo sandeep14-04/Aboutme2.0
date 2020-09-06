@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aboutme1.0</string>
+    <string name="sandeep">sandeep</string>
+    <string name="starimage">starimage</string>
+    <string name="bio">Hi, my name is Aleks.
+\n\nI love fish.
+\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+\nFun fact is that I have several aquariums and also a river.
+\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+\nAnd sometimes I even go fishing.
+\nAnd even less sometimes, I actually catch something.
+\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
+\n\nI\'ll be happy to teach you how to make your own aquarium.
+\nYou should ask someone else about fishing, though.
+        \n\nAndroid software development is the process by which applications are
+        \n\ncreated for devices running the Android operating system. Google states that \"Android apps can be written using Kotlin, Java, and C++ languages\"
+        \n\nusing the Android software development kit, while using other languages is also possible.\n\n</string>
+
+</resources>
